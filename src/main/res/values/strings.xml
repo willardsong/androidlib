@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">androidlib</string>
+    <item name="tag" type="id" />
+</resources>

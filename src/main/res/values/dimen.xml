@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_super_tiny">7dp</dimen>
+    <dimen name="margin_more_super_tiny">4dp</dimen>
+    <dimen name="recycleview_icon_size">60dp</dimen>
+    <dimen name="margin_little">40dp</dimen>
+    <dimen name="item_rv_txt_width">200dp</dimen>
+    <dimen name="text_size_little">22sp</dimen>
+</resources>
